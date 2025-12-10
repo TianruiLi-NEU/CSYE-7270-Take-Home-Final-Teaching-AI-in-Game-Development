@@ -3,6 +3,9 @@ Topic: Navigation & Pathfinding Systems
 
 Author: Tianrui Li
 
+Video link: 
+https://drive.google.com/file/d/1cifuxd6t9EA9_8cUt0usnaJC7WnWByfG/view?usp=sharing
+
 🧭 Overview
 
 This repository contains my take-home final for CSYE 7270, focusing on the topic:
